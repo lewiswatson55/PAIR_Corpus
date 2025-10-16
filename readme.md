@@ -1,4 +1,4 @@
-# LINKS: A Challenge Human-Human Dialogue Corpus for Leveraging
+# PAIR: A Pilot Dataset for Duel Perspective-based Video-Grounded Dialogue and Reconciliation
 
 Interactive Knowledge Sharing - Repository
 
