@@ -8,14 +8,14 @@ This repository contains a dataset of conversations, structured in both JSON and
 
 - `JSON Version/`
   - Contains the dataset in JSON format.
-  - File: `links_dataset.json`
+  - File: `pair_dataset.json`
 - `CSV Version/`
   - Contains the dataset in CSV format.
   - Subfolders for each video clip ID, each containing three CSV files.
 
 ## JSON Version
 
-The JSON file (`links_dataset.json`) is structured as follows:
+The JSON file (`pair_dataset.json`) is structured as follows:
 
 ### JSON Schema
 
