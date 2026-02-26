@@ -2,8 +2,6 @@
 
 This repository contains the PAIR dialogue corpus for studying collaborative reconciliation under perceptual asymmetry (dual ego/exo video perspectives).
 
-`paper.pdf` is available in this local project copy, but it is not intended to be included in the online repository release.
-
 ![PAIR corpus overview](PAIR_FIGURE.png)
 
 ## Links
@@ -54,7 +52,9 @@ Each CSV file has the same schema:
 
 ## Source videos and redistribution
 
-PAIR is derived from ego/exo clips in Ego-Exo4D. This repository does **not** redistribute the original video stimuli. Only anonymised transcript/annotation data are included here.
+PAIR is derived from ego/exo clips in Ego-Exo4D (Grauman et al., 2023). This repository does **not** redistribute the original video stimuli. Only anonymised transcript and annotation data are included here.
+
+Users wishing to access the original video material must obtain it directly from the [official Ego-Exo4D release](https://ego-exo4d-data.org) under its respective license.
 
 ## Citation
 
