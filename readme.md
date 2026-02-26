@@ -68,7 +68,7 @@ Watson, L., Strathearn, C., Mitchell, K., & Yu, Y. (2026, May 11-16). *PAIR: A P
   author = {Watson, Lewis and Strathearn, Carl and Mitchell, Kenny and Yu, Yanchao},
   booktitle = {LREC 2026: Language Resources and Evaluation Conference},
   year = {2026},
-  month = may,
+  month = {May},
   address = {Palma, Mallorca},
   publisher = {European Language Resources Association (ELRA)},
   url = {https://lrec2026.info/}
