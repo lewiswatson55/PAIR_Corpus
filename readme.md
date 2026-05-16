@@ -58,21 +58,22 @@ Users wishing to access the original video material must obtain it directly from
 
 ## Citation
 
-Please cite PAIR as:
+Please cite the PAIR paper:
 
-Watson, L., Strathearn, C., Mitchell, K., & Yu, Y. (2026, May 11-16). *PAIR: A Pilot Dataset for Dual Perspective-based Video-Grounded Dialogue and Reconciliation*. **LREC 2026: Language Resources and Evaluation Conference**, Palma, Mallorca. https://lrec2026.info/
+Watson, L. N., Strathearn, C., Mitchell, K., & Yu, Y. (2026). PAIR: A Pilot Dataset for Dual Perspective-based Video-Grounded Dialogue and Reconciliation. In Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026) (pp. 2760–2771). European Language Resources Association (ELRA). https://doi.org/10.63317/5gun3w98ovtb.
 
 ```bibtex
 @inproceedings{watson2026pair,
   title = {PAIR: A Pilot Dataset for Dual Perspective-based Video-Grounded Dialogue and Reconciliation},
-  author = {Watson, Lewis and Strathearn, Carl and Mitchell, Kenny and Yu, Yanchao},
-  booktitle = {LREC 2026: Language Resources and Evaluation Conference},
-  year = {2026},
+  author = {Watson, Lewis N. and Strathearn, Carl and Mitchell, Kenny and Yu, Yanchao},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
   month = {May},
-  address = {Palma, Mallorca},
+  year = {2026},
+  pages = {2760--2771},
+  address = {Palma, Mallorca, Spain},
   publisher = {European Language Resources Association (ELRA)},
-  url = {https://lrec2026.info/}
+  editor = {Piperidis, Stelios and Bel, Núria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
+  doi = {10.63317/5gun3w98ovtb},
+  url = {https://doi.org/10.63317/5gun3w98ovtb}
 }
 ```
-
-Citation metadata will be updated when the final publication page and DOI are available.
